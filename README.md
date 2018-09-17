@@ -1,4 +1,4 @@
-This is a new repo and will be updated. Probably a lot. 🚀
+This is a new repo and will be updated. Probably a lot. 🚀 There are no changes made to this repo, it's just a bookmark for myself // TyrfingMjolnir
 
 - - -
 ### DataAPI.swift
