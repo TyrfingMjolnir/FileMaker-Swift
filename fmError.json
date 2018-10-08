@@ -32,7 +32,7 @@
 	{
 		"error":"Unsupported media type",
 		"errorCode":"415",
-		"description":"Occurs if the required header is missing or is not correct for the request: For requests that require \"Content-Type: application/json\" header, occurs if the \"Content-Type: application/json\" header is not specified or if a different content type was specified instead of the \"application/json\" type. For requests that require \"Content-Type: multipart/form-data\" header, occurs if the \"Content-Type: multipart/form-data\" header is not specified or if a different content type was specified instead of the \"multipart/form-data\" type."
+		"description":"Occurs if the required header is missing or is not correct for the request: For requests that require \"Content-Type: application\/json\" header, occurs if the \"Content-Type: application\/json\" header is not specified or if a different content type was specified instead of the \"application\/json\" type. For requests that require \"Content-Type: multipart\/form-data\" header, occurs if the \"Content-Type: multipart\/form-data\" header is not specified or if a different content type was specified instead of the \"multipart\/form-data\" type."
 	},
 	{
 		"error":"FileMaker Server error",
