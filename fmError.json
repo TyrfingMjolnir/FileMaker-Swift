@@ -1,5 +1,6 @@
-[
-	{
+{
+ "fmError": [
+        { 
 		"error":"Success",
 		"errorCode":"0",
 		"description":"Hooray!"
@@ -39,4 +40,5 @@
 		"errorCode":"500",
 		"description":"Includes FileMaker error messages and error codes. See FileMaker error codes in FileMaker Pro Advanced Help."
 	}
-]
+ ]
+}
