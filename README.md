@@ -27,4 +27,4 @@ How to create and use a Swift `App Delegate` in a FileMaker iOS App SDK project 
 
 ### URL schemes for FileMaker Go, FIAS, and iOS
 How to use the `Open URL []` script step to launch another native iOS app
-* https://github.com/starsite/FileMaker-Swift/blob/master/URL%20schemes%20for%20FileMaker%20Go%2C%20FIAS%2C%20and%20iOS.md
+* https://github.com/TyrfingMjolnir/FileMaker-Swift/blob/master/URL%20schemes%20for%20FileMaker%20Go%2C%20FIAS%2C%20and%20iOS.md
